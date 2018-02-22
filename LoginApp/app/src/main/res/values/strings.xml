@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="str_login">Login</string>
+    <string name="str_signup">SignUp</string>
+    <string name="str_email">Email</string>
+    <string name="str_password">Password</string>
+    <string name="str_enter_valid_email">Invalid Email</string>
+    <string name="str_enter_password">Invalid Password</string>
+    <string name="str_password_must_be_same">Password does not match</string>
+    <string name="str_confirm_password">Confirm password</string>
+    <string name="str_phone">Phone</string>
+    <string name="str_i_accept">I accept terms and conditions</string>
+    <string name="str_invalid_phone_number">Invalid phone number</string>
+    <string name="str_login_success">Login Successful</string>
+    <string name="str_login_failed">Username or Password does not match</string>
+
+</resources>
